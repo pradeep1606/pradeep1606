@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [ThatsMyCollege]([https://github.com/pradeep1606/Thats-My-College])
+- 🔭 I’m currently working on [ThatsMyCollege](https://github.com/pradeep1606/Thats-My-College)
 
 - 🌱 I’m currently learning **Next.js**
 
